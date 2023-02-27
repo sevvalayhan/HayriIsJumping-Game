@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Deader
+  - killer
+  - Platform
+  - star
+  - thornObject
+  - fallingPlatform
+  - fruit
+  - Ball
+  - Kale
+  - SucukEkmek
+  - trambolinliPlatform
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Star
+  - Ball
+  - Hayri
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Hayri
+    uniqueID: 4186900047
+    locked: 0
+  - name: SucukEkmek
+    uniqueID: 405305945
+    locked: 0
+  - name: Platform
+    uniqueID: 4141489799
+    locked: 0
+  - name: Background
+    uniqueID: 2829361115
+    locked: 0
+  - name: top
+    uniqueID: 3632326403
+    locked: 0
+  - name: trambolin
+    uniqueID: 1886102743
+    locked: 0
